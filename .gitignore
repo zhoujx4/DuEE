@@ -1,0 +1,4 @@
+*.tsv
+*.pkl
+data/
+.ipynb_checkpoints/
